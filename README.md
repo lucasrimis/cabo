@@ -4,7 +4,7 @@ Jogo de cartas de memória baseado no **Cabo**: espie, espione, troque às cegas
 
 **Jogar:** https://lucasrimis.github.io/cabo/
 
-**Link alternativo (Cloudflare Pages, atualiza sozinho a cada push):** https://cabo-chechuda.pages.dev/
+**Link alternativo (Cloudflare Pages, atualiza sozinho a cada push neste repositório):** https://cabo-chechuda.pages.dev/
 
 ## Instalar no celular
 - **Android (Chrome) ou computador:** abra o link e toque em **📲 Instalar o jogo** na tela inicial (ou no menu ⋮ → *Instalar app*).
