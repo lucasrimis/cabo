@@ -4,6 +4,8 @@ Jogo de cartas de memória baseado no **Cabo**: espie, espione, troque às cegas
 
 **Jogar:** https://lucasrimis.github.io/cabo/
 
+**Link alternativo (Cloudflare Pages, atualiza sozinho a cada push):** https://cabo-chechuda.pages.dev/
+
 ## Como jogar
 
 - Baralho de 52 cartas, de 0 a 13. Cada jogador recebe 4 cartas viradas para baixo, lado a lado.
