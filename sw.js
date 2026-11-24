@@ -1,5 +1,5 @@
 // Cabo (chechuda): abre mesmo sem internet depois da primeira visita (modo contra bots).
-const CACHE = "cabo-20261124004213";
+const CACHE = "cabo-20261124004340";
 const FILES = ["./", "./index.html", "./manifest.json", "./icon-192.png", "./icon-512.png"];
 
 self.addEventListener("install", e => {
